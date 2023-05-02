@@ -10,6 +10,6 @@ To find the angle of the magnetization we can solve the equation $h_yk^4+2(h_x-1
 ![ezgif com-resize](https://user-images.githubusercontent.com/106864601/218151993-a7d12314-5a2f-4de6-aa54-f19fc8cd6fd9.gif)
 <br>
 <br>
-$V$_{out}$ and I$_{in}$ for signal V$_{in}$$_{pp}$ = 5V and f = 1kHz\nCoFeSiB ribbon$
+Vout and Iin for signal Vin_pp = 5V and f = 1kHz for CoFeSiB ribbon:<br>
 ![image](https://user-images.githubusercontent.com/106864601/235726431-0e42c7a5-77d7-4a80-9fd9-174567954321.png)
 
